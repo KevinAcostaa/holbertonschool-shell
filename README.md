@@ -1,1 +1,2 @@
-kevin
+#!/bin/bash
+pwd
